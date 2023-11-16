@@ -1,0 +1,20 @@
+.nick{
+    font-size: x-large;
+    color: blue;
+}
+
+H2{
+    text-align: center;
+    color: maroon;
+}
+
+.footer{
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: larger;
+    color: white;
+}
+#foot{
+    color: black;
+}
